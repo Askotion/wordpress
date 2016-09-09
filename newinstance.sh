@@ -68,7 +68,7 @@ sed -i -e "s/password/$2/g" /var/www/html/$1/wp-config.php
 clear
 echo "#=========================================================================#"
 echo "Installation finished! Please now login into your brand new wordpress site!"
-echo "Admin Area: https://$1.site/setup"
+echo "Admin Area: https://$1.site/"
 echo "#=========================================================================#"
 
 
