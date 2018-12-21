@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Developer: Kay Probst
+# Developer: 
 # Version: 1.0
 # Description: Use this script to inciate a new wordpress instace for the given domain ($1)
 # Usage: 
